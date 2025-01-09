@@ -1,0 +1,1 @@
+Set-ADUser -Identity "ayilmaz" -Title "Finance Analyst" -Department "Finance"
